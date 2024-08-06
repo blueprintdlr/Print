@@ -15,7 +15,7 @@ call env\Scripts\activate.bat
 pip install django reportlab pywin32 django-bootstrap5
 
 :: Clone the GitHub repository
-git clone https://github.com/zkgogreen/print.git
+git clone https://github.com/MaranathaZen/Print.git
 
 :: Navigate to the cloned repository and run the server
 cd print
